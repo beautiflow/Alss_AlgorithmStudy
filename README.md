@@ -49,7 +49,7 @@
 | <center>2주</center> | <center>   </center> | <center>    </center> | <center>   </center> | <center>  </center> | <center>  </center> | <center> </center> | <center> </center> | <center> </center>  
 | <center>3주</center> | <center>     </center> | <center>   </center> | <center>   </center> | <center>   </center> | <center> </center> | <center>   </center> | <center> </center> | <center> </center> |
 | <center>4주</center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> |
-| <center>5주</center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center>단지번호붙이기</center> | <center> </center> | <center> </center> |
+| <center>5주</center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> |
 | <center>6주</center> |  |  |  |  |  |  |  |  |
 | <center>7주</center> |  |  |  |  |  |  |  |  |
 | <center>8주</center> |  |  |  |  |  |  |  |  |
