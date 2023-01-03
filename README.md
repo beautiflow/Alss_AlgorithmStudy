@@ -21,6 +21,7 @@
 - [오나연](https://github.com/beautiflow)
 - [방소영](https://github.com/blacklabf)
 - [우희원](https://github.com/H2W0N)
+- [박상균](https://github.com/sanggyunbak2856)
 
 
 
@@ -43,7 +44,7 @@
 ---
 ## 발표 문제 🥇
 
-|  | <center>나연</center> | <center>소영</center> | <center>희원</center> | <center>  </center> | <center>  </center> | <center>  </center> | <center>  </center> | <center>  </center> |
+|  | <center>나연</center> | <center>소영</center> | <center>희원</center> | <center>상균</center> | <center>  </center> | <center>  </center> | <center>  </center> | <center>  </center> |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | <center>1주</center> | <center>  </center> | <center>   <br/>  </center> | <center> <br/>  </center> | <center>  <br/>   </center> | <center>   <br/>   </center> | <center>  <br/>   </center> | <center>   <br/>   </center> | <center>    </center> |
 | <center>2주</center> | <center>   </center> | <center>    </center> | <center>   </center> | <center>  </center> | <center>  </center> | <center> </center> | <center> </center> | <center> </center>  
