@@ -22,6 +22,7 @@
 - [방소영](https://github.com/blacklabf)
 - [우희원](https://github.com/H2W0N)
 - [박상균](https://github.com/sanggyunbak2856)
+- [김아영](https://github.com/Kim-AYoung)
 
 
 
