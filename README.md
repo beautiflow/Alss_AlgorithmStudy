@@ -46,7 +46,7 @@
 ---
 ## 발표 문제 🥇
 
-|  | <center>나연</center> | <center>소영</center> | <center>희원</center> | <center>상균</center> | <center>  </center> | <center>  </center> | <center>  </center> | <center>  </center> |
+|  | <center>나연</center> | <center>소영</center> | <center>희원</center> | <center>상균</center> | <center>아영</center> | <center>수빈</center> | <center>  </center> | <center>  </center> |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | <center>1주</center> | <center>  </center> | <center>   <br/>  </center> | <center> <br/>  </center> | <center>  <br/>   </center> | <center>   <br/>   </center> | <center>  <br/>   </center> | <center>   <br/>   </center> | <center>    </center> |
 | <center>2주</center> | <center>   </center> | <center>    </center> | <center>   </center> | <center>  </center> | <center>  </center> | <center> </center> | <center> </center> | <center> </center>  
