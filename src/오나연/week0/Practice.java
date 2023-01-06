@@ -1,4 +1,4 @@
-package 오나연;
+package 오나연.week0;
 
 public class Practice {
     public static void main(String[] args) {
