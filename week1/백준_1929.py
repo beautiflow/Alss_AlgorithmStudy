@@ -13,3 +13,25 @@ for i in range(2,sn+1):
 res = [x for x in range(a,b) if isprime[x]]
 
 print(res)
+
+
+
+#시간초과@@
+# #소수구하기
+
+# s_list = []
+# m, n = map(int,input().split())
+# # 1과 자기자신
+
+# for i in range(m,n+1):
+#     cnt = 0
+#     res = 1
+#     while i+1 != res:
+#         if i % res == 0:
+#             cnt += 1
+#         res += 1
+#     if cnt == 2:
+#         s_list.append(i)
+
+# for i in s_list:
+#     print(i)
