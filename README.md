@@ -24,7 +24,8 @@
 - [박상균](https://github.com/sanggyunbak2856)
 - [김아영](https://github.com/Kim-AYoung)
 - [지수빈](https://github.com/sbeen1840)
-
+- [편민준]
+- [박경섭](https://github.com/manhasscar)
 
 
 ---
@@ -46,7 +47,7 @@
 ---
 ## 발표 문제 🥇
 
-|  | <center>나연</center> | <center>소영</center> | <center>희원</center> | <center>상균</center> | <center>아영</center> | <center>수빈</center> | <center>  </center> | <center>  </center> |
+|  | <center>나연</center> | <center>소영</center> | <center>희원</center> | <center>상균</center> | <center>아영</center> | <center>수빈</center> | <center>민준</center> | <center>경섭</center> |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | <center>1주</center> | <center>  </center> | <center>   <br/>  </center> | <center> <br/>  </center> | <center>  <br/>   </center> | <center>   <br/>   </center> | <center>  <br/>   </center> | <center>   <br/>   </center> | <center>    </center> |
 | <center>2주</center> | <center>   </center> | <center>    </center> | <center>   </center> | <center>  </center> | <center>  </center> | <center> </center> | <center> </center> | <center> </center>  
