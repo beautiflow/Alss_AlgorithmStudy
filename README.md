@@ -24,7 +24,7 @@
 - [박상균](https://github.com/sanggyunbak2856)
 - [김아영](https://github.com/Kim-AYoung)
 - [지수빈](https://github.com/sbeen1840)
-- [편민준]
+- [편민준](https://github.com/PyeonMinjun)
 - [박경섭](https://github.com/manhasscar)
 
 
