@@ -1,6 +1,6 @@
 def d(n):
     isprime = [True] * (2*n +1)
-    sn = int(2* n ** 0.5)
+    sn = int((2* n )** 0.5)
 
     for i in range(2,sn+1):
         if isprime:
