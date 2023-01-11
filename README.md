@@ -2,9 +2,9 @@
 
 ## ✏️ 스터디 기간 
 
-2023.~
+2023.01.06~
 
-매주 0요일 (시간 미정) 
+매주 금요일 (오후 6시 ~ 오후 7) 
 
 ---
 ## 진행방식 📚
@@ -23,7 +23,9 @@
 - [우희원](https://github.com/H2W0N)
 - [박상균](https://github.com/sanggyunbak2856)
 - [김아영](https://github.com/Kim-AYoung)
-
+- [지수빈](https://github.com/sbeen1840)
+- [편민준](https://github.com/PyeonMinjun)
+- [박경섭](https://github.com/manhasscar)
 
 
 ---
@@ -45,7 +47,7 @@
 ---
 ## 발표 문제 🥇
 
-|  | <center>나연</center> | <center>소영</center> | <center>희원</center> | <center>상균</center> | <center>  </center> | <center>  </center> | <center>  </center> | <center>  </center> |
+|  | <center>나연</center> | <center>소영</center> | <center>희원</center> | <center>상균</center> | <center>아영</center> | <center>수빈</center> | <center>민준</center> | <center>경섭</center> |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | <center>1주</center> | <center>  </center> | <center>   <br/>  </center> | <center> <br/>  </center> | <center>  <br/>   </center> | <center>   <br/>   </center> | <center>  <br/>   </center> | <center>   <br/>   </center> | <center>    </center> |
 | <center>2주</center> | <center>   </center> | <center>    </center> | <center>   </center> | <center>  </center> | <center>  </center> | <center> </center> | <center> </center> | <center> </center>  
