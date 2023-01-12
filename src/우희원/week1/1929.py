@@ -1,8 +1,11 @@
 def is_prime(n) :
-    for i in range(2, int(n/2)+1) :
-        if n%i == 0 :
-            return False
-    return True
+    if n == 1 :
+        return False
+    else :
+        for i in range(2, int(n/2)+1) :
+            if n%i == 0 :
+                return False
+        return True
 
 m, n = map(int, input().split())
 
