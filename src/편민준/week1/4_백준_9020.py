@@ -21,6 +21,6 @@ for _ in range(t):
         else:
             z -= 1
             x += 1
-    #
+
     
         
