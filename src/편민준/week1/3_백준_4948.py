@@ -14,6 +14,7 @@ while True:
     if a == 0:
         break
     print(len(d(a)))
+###########
 
    
     
