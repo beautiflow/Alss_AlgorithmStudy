@@ -9,9 +9,11 @@ public class B_10974 {
         int n = sc.nextInt();
         sc.close();
 
-        int[] arr = new int[n];
-        int[] output = new int[n];
-        boolean[] visited = new boolean[n];
+
+        int[] arr = new int[n];  // r 개를 뽑기 위한 n개의 값 저장소
+        int[] output = new int[n]; // 뽑힌 r 개의 값 저장소
+        boolean[] visited = new boolean[n];  // 중복해서 뽑지 않기 위해 체크하는 값
+
 
         for(int i = 0; i < n; i++){
             arr[i] = i + 1;

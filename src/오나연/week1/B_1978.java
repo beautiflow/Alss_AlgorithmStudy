@@ -2,8 +2,6 @@ package 오나연.week1;
 
 import java.util.Scanner;
 
-import static java.lang.Math.sqrt;
-
 public class B_1978 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
