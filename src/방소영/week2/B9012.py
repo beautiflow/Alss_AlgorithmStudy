@@ -1,3 +1,4 @@
+# 풀이 1
 import sys; input = sys.stdin.readline
 
 t = int(input())
@@ -17,5 +18,28 @@ for i in range(t):
         print('NO')
     elif sum == 0:
         print('YES')
+
+# 풀이 2 - stack (append, pop) 이용
+import sys; input = sys.stdin.readline
+
+t = int(input())
+for i in range(t):
+    stack = []
+    a = input().strip()
+    for j in a :
+        if j == '(':
+            stack.append(j)
+        elif j == ')':
+            if stack:
+                stack.pop()
+            else:
+                print('NO')
+                break
+    else:
+        if not stack:
+            print('YES')
+        else:
+            print('NO')
+
 
 
