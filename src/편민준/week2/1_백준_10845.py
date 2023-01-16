@@ -2,6 +2,7 @@ import sys
 
 
 
+
 input = sys.stdin.readline
 
 que= []
@@ -28,6 +29,7 @@ def empty():
         return(0)
 
 def front():
+
     if len(que) < 1:
         return(-1)
     else:
