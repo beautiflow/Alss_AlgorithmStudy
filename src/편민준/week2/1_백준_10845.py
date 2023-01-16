@@ -1,7 +1,4 @@
 import sys
-
-
-
 input = sys.stdin.readline
 
 que= []
@@ -28,10 +25,11 @@ def empty():
         return(0)
 
 def front():
-    if len(que) < 1:
-        return(-1)
-    else:
-        return que[0]
+    # if len(que) < 1:
+    #     return(-1)
+    # else:
+    #     return que[0]
+    return (que[0] if len(que) else -1)
 
 def back():
     if len(que) < 1:
