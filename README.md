@@ -73,7 +73,9 @@
   - commit 메세지는 `이름: 내용`으로 통일합니다.
   - EX) `오나연: 백준 1103`
   - fork한 레포지토리에 commit을 완료했다면 `pull request`를 보냅니다. 👉 [pull Request(PR)보내는 방법](https://chanhuiseok.github.io/posts/git-3/)
-  - PR 승인 권한은 참여인원 모두에게 있습니다! PR을 날리고 메인 저장소에 merge 해봅시다.
+  - PR 승인 권한은 참여인원 모두에게 있습니다! 스터디에 오기 전 PR을 날리고, 스터디에 온 후 오른쪽 사람이 PR 내용을 확인 후 메인 저장소에 merge 해줍시다.
+    - PR 제목은 `이름: 주차`로 통일합니다.
+    - EX) `오나연: week0`
 
 - 문제 풀이 발표 시간에는
   - (1) 문제 번호
