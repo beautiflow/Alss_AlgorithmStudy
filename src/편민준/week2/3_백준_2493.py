@@ -1,6 +1,6 @@
 import sys
 input = sys.stdin.readline
-print = sys.stdout.write
+# print = sys.stdout.write
 
 
 # n = int(input())
@@ -26,22 +26,30 @@ print = sys.stdout.write
 # print(' '.join(map(str, receive)))
 
 
-
-
 n = int(input())
-tops = list(map(int , input().split()))
-
-stk = []
-total = [0] * n
+tops = list(map(int, input().split()))
+stack = []
+res = []
 
 for i in range(n):
-    t = tops[i]
-    while stk and tops[stk[-1]] < t:
-        stk.pop()
+    h = tops[i]
+    if stack:
+        while stack:
+            if stack[-1][0] < h:
+                stack.pop()
+                if not stack:
+                    res.append(0)
+            elif stack[-1][0] > h:
+                res.append(stack[-1][1]+1)
+                break
+        stack.append([h,i])
+    else:
+        res.append(0)
+        stack.append([h,i])
 
-    if stk:
-        total[i] = stk[-1] +1
-    stk.append(i)
+print(" ".join(map(str,res)))
+
+
 
     
 
