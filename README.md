@@ -36,7 +36,7 @@
 | 2 | 자료구조 (스택/큐/덱/힙) [문제집](https://www.acmicpc.net/workbook/view/8999) | 
 | 3 | 재귀함수의 이해 && 여러 가지 정렬 <br/> [문제집](https://www.acmicpc.net/workbook/view/9000)  | 
 | 4 | 다이나믹 프로그래밍 (DP) <br/> [문제집](https://www.acmicpc.net/workbook/view/9001) | 
-| 5 | 그래프 문제 && 기초 DFS와 BFS <br/> [문제집](https://www.acmicpc.net/workbook/view/9003) | 
+| 5 | DFS와 BFS <br/> [문제집](https://www.acmicpc.net/workbook/view/9003) | 
 | 6 | 백트래킹 <br/> [문제집](https://www.acmicpc.net/workbook/view/10334) | 
 | 7 | 이분 탐색 && 분할정복<br/> [이분 탐색 문제집](https://www.acmicpc.net/workbook/view/12069) [분할정복 문제집](https://www.acmicpc.net/workbook/view/10417) | 
 | 8 | 그리디 알고리즘 <br/> [브론즈,실버 문제집](https://www.acmicpc.net/workbook/view/12220) [골드 문제집](https://www.acmicpc.net/workbook/view/13117)| 
