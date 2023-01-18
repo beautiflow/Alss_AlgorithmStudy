@@ -37,10 +37,10 @@
 | 3 | 재귀함수의 이해 && 여러 가지 정렬 <br/> [문제집](https://www.acmicpc.net/workbook/view/9000)  | 
 | 4 | 다이나믹 프로그래밍 (DP) <br/> [문제집](https://www.acmicpc.net/workbook/view/9001) | 
 | 5 | 그래프 문제 && 기초 DFS와 BFS <br/> [문제집](https://www.acmicpc.net/workbook/view/9003) | 
-| 6 | DFS와 BFS 응용, 최단 경로 구하기 <br/> [백준 7576, 2178, 10026, 5014, 1916, 4485](https://www.acmicpc.net/workbook/view/8999) | 
-| 7 | 이분 탐색 && 분할정복<br/> [이분 탐색 백준 2512, 2110, 2470]() [분할정복 백준 2630, 2448, 1780, 1992](https://www.acmicpc.net/workbook/view/8999) | 
-| 8 | 그리디 알고리즘 <br/> [백준 1783, 11501, 1946, 11497](https://www.acmicpc.net/workbook/view/8999) [프로그래머스 42883, 42862]()| 
-| 9 | 완전탐색(Brute Force) && 시뮬레이션 <br/> [백준 2961, 1713, 15683, 17143, 3190](https://www.acmicpc.net/workbook/view/8999) [프로그래머스 42839]() | 
+| 6 | 백트래킹 <br/> [문제집](https://www.acmicpc.net/workbook/view/10334) | 
+| 7 | 이분 탐색 && 분할정복<br/> [이분 탐색 문제집](https://www.acmicpc.net/workbook/view/12069) [분할정복 문제집](https://www.acmicpc.net/workbook/view/10417) | 
+| 8 | 그리디 알고리즘 <br/> [브론즈,실버 문제집](https://www.acmicpc.net/workbook/view/12220) [골드 문제집](https://www.acmicpc.net/workbook/view/13117)| 
+| 9 | 완전탐색(Brute Force) && 시뮬레이션 <br/> [완전탐색 브론즈&실버](https://www.acmicpc.net/workbook/view/7770) [완전탐색 골드&플래티넘](https://www.acmicpc.net/workbook/view/7772) | 
 | 10 | 구현 <br/> [문제집](https://www.acmicpc.net/workbook/view/1152) | 
 
 
