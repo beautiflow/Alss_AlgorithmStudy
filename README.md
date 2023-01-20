@@ -36,11 +36,11 @@
 | 2 | 자료구조 (스택/큐/덱/힙) [문제집](https://www.acmicpc.net/workbook/view/8999) | 
 | 3 | 재귀함수의 이해 && 여러 가지 정렬 <br/> [문제집](https://www.acmicpc.net/workbook/view/9000)  | 
 | 4 | 다이나믹 프로그래밍 (DP) <br/> [문제집](https://www.acmicpc.net/workbook/view/9001) | 
-| 5 | 그래프 문제 && 기초 DFS와 BFS <br/> [문제집](https://www.acmicpc.net/workbook/view/9003) | 
-| 6 | DFS와 BFS 응용, 최단 경로 구하기 <br/> [백준 7576, 2178, 10026, 5014, 1916, 4485](https://www.acmicpc.net/workbook/view/8999) | 
-| 7 | 이분 탐색 && 분할정복<br/> [이분 탐색 백준 2512, 2110, 2470]() [분할정복 백준 2630, 2448, 1780, 1992](https://www.acmicpc.net/workbook/view/8999) | 
-| 8 | 그리디 알고리즘 <br/> [백준 1783, 11501, 1946, 11497](https://www.acmicpc.net/workbook/view/8999) [프로그래머스 42883, 42862]()| 
-| 9 | 완전탐색(Brute Force) && 시뮬레이션 <br/> [백준 2961, 1713, 15683, 17143, 3190](https://www.acmicpc.net/workbook/view/8999) [프로그래머스 42839]() | 
+| 5 | DFS와 BFS <br/> [문제집](https://www.acmicpc.net/workbook/view/9003) | 
+| 6 | 백트래킹 <br/> [문제집](https://www.acmicpc.net/workbook/view/10334) | 
+| 7 | 이분 탐색 && 분할정복<br/> [이분 탐색 문제집](https://www.acmicpc.net/workbook/view/12069) [분할정복 문제집](https://www.acmicpc.net/workbook/view/10417) | 
+| 8 | 그리디 알고리즘 <br/> [브론즈,실버 문제집](https://www.acmicpc.net/workbook/view/12220) [골드 문제집](https://www.acmicpc.net/workbook/view/13117)| 
+| 9 | 완전탐색(Brute Force) && 시뮬레이션 <br/> [완전탐색 브론즈&실버](https://www.acmicpc.net/workbook/view/7770) [완전탐색 골드&플래티넘](https://www.acmicpc.net/workbook/view/7772) | 
 | 10 | 구현 <br/> [문제집](https://www.acmicpc.net/workbook/view/1152) | 
 
 
@@ -73,7 +73,9 @@
   - commit 메세지는 `이름: 내용`으로 통일합니다.
   - EX) `오나연: 백준 1103`
   - fork한 레포지토리에 commit을 완료했다면 `pull request`를 보냅니다. 👉 [pull Request(PR)보내는 방법](https://chanhuiseok.github.io/posts/git-3/)
-  - PR 승인 권한은 참여인원 모두에게 있습니다! PR을 날리고 메인 저장소에 merge 해봅시다.
+  - PR 승인 권한은 참여인원 모두에게 있습니다! 스터디에 오기 전 PR을 날리고, 스터디에 온 후 오른쪽 사람이 PR 내용을 확인 후 메인 저장소에 merge 해줍시다.
+    - PR 제목은 `이름: 주차`로 통일합니다.
+    - EX) `오나연: week0`
 
 - 문제 풀이 발표 시간에는
   - (1) 문제 번호
