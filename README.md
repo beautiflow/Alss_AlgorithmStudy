@@ -44,25 +44,6 @@
 | 10 | 구현 <br/> [문제집](https://www.acmicpc.net/workbook/view/1152) | 
 
 
----
-## 발표 문제 🥇
-
-|  | <center>나연</center> | <center>소영</center> | <center>희원</center> | <center>상균</center> | <center>아영</center> | <center>수빈</center> | <center>민준</center> | <center>경섭</center> |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <center>1주</center> | <center>  </center> | <center>   <br/>  </center> | <center> <br/>  </center> | <center>  <br/>   </center> | <center>   <br/>   </center> | <center>  <br/>   </center> | <center>   <br/>   </center> | <center>    </center> |
-| <center>2주</center> | <center>   </center> | <center>    </center> | <center>   </center> | <center>  </center> | <center>  </center> | <center> </center> | <center> </center> | <center> </center>  
-| <center>3주</center> | <center>     </center> | <center>   </center> | <center>   </center> | <center>   </center> | <center> </center> | <center>   </center> | <center> </center> | <center> </center> |
-| <center>4주</center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> |
-| <center>5주</center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> |
-| <center>6주</center> |  |  |  |  |  |  |  |  |
-| <center>7주</center> |  |  |  |  |  |  |  |  |
-| <center>8주</center> |  |  |  |  |  |  |  |  |
-| <center>9주</center> |  |  |  |  |  |  |  |  |
-| <center>10주</center> |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
 
 
 ---
