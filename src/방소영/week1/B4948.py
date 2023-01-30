@@ -17,3 +17,4 @@ while n != 0:
     print(len(a))
     n = int(input())
     a = []
+

@@ -5,4 +5,6 @@ a= map(int,input().split())
 
 if a:
 
+
+
     print(1)
