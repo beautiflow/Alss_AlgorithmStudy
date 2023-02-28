@@ -9,7 +9,7 @@
 ---
 ## 진행방식 📚
 - 매일 1일 1알고리즘이 목표!
-- 알고리즘을 했다면 포도 농장에 포도를 심어보자! -> [🍇](https://docs.google.com/spreadsheets/d/1Vs-4ZJxWiNcunHS6h4E_jJmugXf9jcLY0APHbH1TsrU/edit#gid=1050334074)
+- 알고리즘을 했다면 포도 농장에 포도를 심어보자! -> [🍇](https://docs.google.com/spreadsheets/d/1Vs-4ZJxWiNcunHS6h4E_jJmugXf9jcLY0APHbH1TsrU/edit#gid=840697249)
 - 매주 주제에 맞게 공통 문제를 정해서 풀고, 각자 풀고싶은 문제를 골라서 푼다.
 - 스터디원은 한 문제를 정해서 발표를 준비한다. 
 - 한 사람씩 돌아가면서 문제의 코드와 풀이 방식을 설명하고 질의응답한다.
