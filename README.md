@@ -9,7 +9,7 @@
 ---
 ## 진행방식 📚
 - 매일 1일 1알고리즘이 목표!
-- 알고리즘을 했다면 포도 농장에 포도를 심어보자! -> [🍇](https://docs.google.com/spreadsheets/d/1Vs-4ZJxWiNcunHS6h4E_jJmugXf9jcLY0APHbH1TsrU/edit#gid=0)
+- 알고리즘을 했다면 포도 농장에 포도를 심어보자! -> [🍇](https://docs.google.com/spreadsheets/d/1Vs-4ZJxWiNcunHS6h4E_jJmugXf9jcLY0APHbH1TsrU/edit#gid=840697249)
 - 매주 주제에 맞게 공통 문제를 정해서 풀고, 각자 풀고싶은 문제를 골라서 푼다.
 - 스터디원은 한 문제를 정해서 발표를 준비한다. 
 - 한 사람씩 돌아가면서 문제의 코드와 풀이 방식을 설명하고 질의응답한다.
@@ -32,37 +32,18 @@
 ## 주제 && 문제집 📖
 | <center>주차</center> | <center>주제</center> | 
 | :---- | ------ |
-| 1 | 수학 (합공식/피보나치수/약수/최대공약수/최소공배수/소수) <br/> [문제집](https://www.acmicpc.net/workbook/view/8997) | 
-| 2 | 자료구조 (스택/큐/덱/힙) [문제집](https://www.acmicpc.net/workbook/view/8999) | 
-| 3 | 재귀함수의 이해 && 여러 가지 정렬 <br/> [문제집](https://www.acmicpc.net/workbook/view/9000)  | 
-| 4 | 다이나믹 프로그래밍 (DP) <br/> [문제집](https://www.acmicpc.net/workbook/view/9001) | 
-| 5 | DFS와 BFS <br/> [문제집](https://www.acmicpc.net/workbook/view/9003) | 
-| 6 | 백트래킹 <br/> [문제집](https://www.acmicpc.net/workbook/view/10334) | 
-| 7 | 이분 탐색 && 분할정복<br/> [이분 탐색 문제집](https://www.acmicpc.net/workbook/view/12069) [분할정복 문제집](https://www.acmicpc.net/workbook/view/10417) | 
-| 8 | 그리디 알고리즘 <br/> [브론즈,실버 문제집](https://www.acmicpc.net/workbook/view/12220) [골드 문제집](https://www.acmicpc.net/workbook/view/13117)| 
-| 9 | 완전탐색(Brute Force) && 시뮬레이션 <br/> [완전탐색 브론즈&실버](https://www.acmicpc.net/workbook/view/7770) [완전탐색 골드&플래티넘](https://www.acmicpc.net/workbook/view/7772) | 
+| 1 ✅| 수학 (합공식/피보나치수/약수/최대공약수/최소공배수/소수) <br/> [문제집](https://www.acmicpc.net/workbook/view/8997) | 
+| 2 ✅| 자료구조 (스택/큐/덱/힙) [문제집](https://www.acmicpc.net/workbook/view/8999) | 
+| 3 ✅| 재귀함수의 이해 && 여러 가지 정렬 <br/> [문제집](https://www.acmicpc.net/workbook/view/9000)  | 
+| 4 ✅| 다이나믹 프로그래밍 (DP) <br/> [문제집](https://www.acmicpc.net/workbook/view/9001) | 
+| 5 ✅| 그래프 문제 && 기초 DFS와 BFS <br/> [문제집](https://www.acmicpc.net/workbook/view/9003) | 
+| 6 ✅| DFS와 BFS 응용, 최단 경로 구하기 <br/> [문제집](https://www.acmicpc.net/workbook/view/7754) | 
+| 7 ✅| 이분 탐색 && 분할정복<br/> [이분 탐색](https://www.acmicpc.net/workbook/view/12069) [분할정복](https://www.acmicpc.net/workbook/view/12123) | 
+| 8 | 그리디 알고리즘 <br/> [문제집](https://www.acmicpc.net/workbook/view/12220) 
+| 9 | 완전탐색(Brute Force) && 시뮬레이션 <br/> [백준 2961, 1713, 15683, 17143, 3190](https://www.acmicpc.net/workbook/view/8999) [프로그래머스 42839]() | 
 | 10 | 구현 <br/> [문제집](https://www.acmicpc.net/workbook/view/1152) | 
 
 
----
-## 발표 문제 🥇
-
-|  | <center>나연</center> | <center>소영</center> | <center>희원</center> | <center>상균</center> | <center>아영</center> | <center>수빈</center> | <center>민준</center> | <center>경섭</center> |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <center>1주</center> | <center>  </center> | <center>   <br/>  </center> | <center> <br/>  </center> | <center>  <br/>   </center> | <center>   <br/>   </center> | <center>  <br/>   </center> | <center>   <br/>   </center> | <center>    </center> |
-| <center>2주</center> | <center>   </center> | <center>    </center> | <center>   </center> | <center>  </center> | <center>  </center> | <center> </center> | <center> </center> | <center> </center>  
-| <center>3주</center> | <center>     </center> | <center>   </center> | <center>   </center> | <center>   </center> | <center> </center> | <center>   </center> | <center> </center> | <center> </center> |
-| <center>4주</center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> |
-| <center>5주</center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> | <center> </center> |
-| <center>6주</center> |  |  |  |  |  |  |  |  |
-| <center>7주</center> |  |  |  |  |  |  |  |  |
-| <center>8주</center> |  |  |  |  |  |  |  |  |
-| <center>9주</center> |  |  |  |  |  |  |  |  |
-| <center>10주</center> |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
 
 
 ---
@@ -73,9 +54,7 @@
   - commit 메세지는 `이름: 내용`으로 통일합니다.
   - EX) `오나연: 백준 1103`
   - fork한 레포지토리에 commit을 완료했다면 `pull request`를 보냅니다. 👉 [pull Request(PR)보내는 방법](https://chanhuiseok.github.io/posts/git-3/)
-  - PR 승인 권한은 참여인원 모두에게 있습니다! 스터디에 오기 전 PR을 날리고, 스터디에 온 후 오른쪽 사람이 PR 내용을 확인 후 메인 저장소에 merge 해줍시다.
-    - PR 제목은 `이름: 주차`로 통일합니다.
-    - EX) `오나연: week0`
+  - PR 승인 권한은 참여인원 모두에게 있습니다! PR을 날리고 메인 저장소에 merge 해봅시다.
 
 - 문제 풀이 발표 시간에는
   - (1) 문제 번호
