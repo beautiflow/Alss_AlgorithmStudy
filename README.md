@@ -9,7 +9,7 @@
 ---
 ## 진행방식 📚
 - 매일 1일 1알고리즘이 목표!
-- 알고리즘을 했다면 포도 농장에 포도를 심어보자! -> [🍇](https://docs.google.com/spreadsheets/d/1Vs-4ZJxWiNcunHS6h4E_jJmugXf9jcLY0APHbH1TsrU/edit#gid=1050334074)
+- 알고리즘을 했다면 포도 농장에 포도를 심어보자! -> [🍇](https://docs.google.com/spreadsheets/d/1Vs-4ZJxWiNcunHS6h4E_jJmugXf9jcLY0APHbH1TsrU/edit#gid=840697249)
 - 매주 주제에 맞게 공통 문제를 정해서 풀고, 각자 풀고싶은 문제를 골라서 푼다.
 - 스터디원은 한 문제를 정해서 발표를 준비한다. 
 - 한 사람씩 돌아가면서 문제의 코드와 풀이 방식을 설명하고 질의응답한다.
@@ -32,14 +32,14 @@
 ## 주제 && 문제집 📖
 | <center>주차</center> | <center>주제</center> | 
 | :---- | ------ |
-| 1 ✅ | 수학 (합공식/피보나치수/약수/최대공약수/최소공배수/소수) <br/> [문제집](https://www.acmicpc.net/workbook/view/8997) | 
-| 2 ✅ | 자료구조 (스택/큐/덱/힙) [문제집](https://www.acmicpc.net/workbook/view/8999) | 
-| 3 ✅ | 재귀함수의 이해 && 여러 가지 정렬 <br/> [문제집](https://www.acmicpc.net/workbook/view/9000)  | 
-| 4 ✅ | 다이나믹 프로그래밍 (DP) <br/> [문제집](https://www.acmicpc.net/workbook/view/9001) | 
-| 5 ✅ | 그래프 문제 && 기초 DFS와 BFS <br/> [문제집](https://www.acmicpc.net/workbook/view/9003) | 
+| 1 ✅| 수학 (합공식/피보나치수/약수/최대공약수/최소공배수/소수) <br/> [문제집](https://www.acmicpc.net/workbook/view/8997) | 
+| 2 ✅| 자료구조 (스택/큐/덱/힙) [문제집](https://www.acmicpc.net/workbook/view/8999) | 
+| 3 ✅| 재귀함수의 이해 && 여러 가지 정렬 <br/> [문제집](https://www.acmicpc.net/workbook/view/9000)  | 
+| 4 ✅| 다이나믹 프로그래밍 (DP) <br/> [문제집](https://www.acmicpc.net/workbook/view/9001) | 
+| 5 ✅| 그래프 문제 && 기초 DFS와 BFS <br/> [문제집](https://www.acmicpc.net/workbook/view/9003) | 
 | 6 ✅| DFS와 BFS 응용, 최단 경로 구하기 <br/> [문제집](https://www.acmicpc.net/workbook/view/7754) | 
-| 7 | 이분 탐색 && 분할정복<br/> [이분 탐색](https://www.acmicpc.net/workbook/view/12069) [분할정복](https://www.acmicpc.net/workbook/view/12123) | 
-| 8 | 그리디 알고리즘 <br/> [백준 1783, 11501, 1946, 11497](https://www.acmicpc.net/workbook/view/8999) [프로그래머스 42883, 42862]()| 
+| 7 ✅| 이분 탐색 && 분할정복<br/> [이분 탐색](https://www.acmicpc.net/workbook/view/12069) [분할정복](https://www.acmicpc.net/workbook/view/12123) | 
+| 8 | 그리디 알고리즘 <br/> [문제집](https://www.acmicpc.net/workbook/view/12220) 
 | 9 | 완전탐색(Brute Force) && 시뮬레이션 <br/> [백준 2961, 1713, 15683, 17143, 3190](https://www.acmicpc.net/workbook/view/8999) [프로그래머스 42839]() | 
 | 10 | 구현 <br/> [문제집](https://www.acmicpc.net/workbook/view/1152) | 
 
