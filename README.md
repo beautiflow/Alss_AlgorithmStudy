@@ -20,12 +20,10 @@
 ## 스터디 참여 인원 👩‍💻
 - [오나연](https://github.com/beautiflow)
 - [방소영](https://github.com/blacklabf)
-- [우희원](https://github.com/H2W0N)
 - [박상균](https://github.com/sanggyunbak2856)
-- [김아영](https://github.com/Kim-AYoung)
-- [지수빈](https://github.com/sbeen1840)
 - [편민준](https://github.com/PyeonMinjun)
 - [박경섭](https://github.com/manhasscar)
+- [정지호](https://github.com/CNU-Jiho-Jeong)
 
 
 ---
@@ -39,9 +37,9 @@
 | 5 ✅| 그래프 문제 && 기초 DFS와 BFS <br/> [문제집](https://www.acmicpc.net/workbook/view/9003) | 
 | 6 ✅| DFS와 BFS 응용, 최단 경로 구하기 <br/> [문제집](https://www.acmicpc.net/workbook/view/7754) | 
 | 7 ✅| 이분 탐색 && 분할정복<br/> [이분 탐색](https://www.acmicpc.net/workbook/view/12069) [분할정복](https://www.acmicpc.net/workbook/view/12123) | 
-| 8 | 그리디 알고리즘 <br/> [문제집](https://www.acmicpc.net/workbook/view/12220) 
-| 9 | 완전탐색(Brute Force) && 시뮬레이션 <br/> [백준 2961, 1713, 15683, 17143, 3190](https://www.acmicpc.net/workbook/view/8999) [프로그래머스 42839]() | 
-| 10 | 구현 <br/> [문제집](https://www.acmicpc.net/workbook/view/1152) | 
+| 8 ✅| 그리디 알고리즘 <br/> [문제집](https://www.acmicpc.net/workbook/view/12220) 
+| 9 | 완전탐색(Brute Force) && 시뮬레이션 <br/> [완전탐색 문제집](https://www.acmicpc.net/workbook/view/9534) [시뮬레이션 문제집](https://www.acmicpc.net/workbook/view/7741) | 
+| 10 | 구현 <br/> [문제집](https://www.acmicpc.net/workbook/view/6783) | 
 
 
 
